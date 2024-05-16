@@ -1,0 +1,1 @@
+prompt("dame tu nombre "); 
